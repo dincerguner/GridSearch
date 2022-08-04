@@ -1,0 +1,32 @@
+{
+    "attributes": [
+        {
+            "end": 5.0,
+            "lastPoint": 1.0,
+            "name": "a",
+            "start": 1.0,
+            "step": 1.0
+        },
+        {
+            "end": 5.0,
+            "lastPoint": 1.0,
+            "name": "b",
+            "start": 1.0,
+            "step": 1.0
+        },
+        {
+            "end": 5.0,
+            "lastPoint": 1.0,
+            "name": "c",
+            "start": 1.0,
+            "step": 1.0
+        },
+        {
+            "end": 5.0,
+            "lastPoint": 6.0,
+            "name": "d",
+            "start": 1.0,
+            "step": 1.0
+        }
+    ]
+}
